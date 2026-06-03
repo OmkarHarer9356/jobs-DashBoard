@@ -20,7 +20,7 @@ We use a single dataset of real 2024 data job postings (including titles, salari
 ## 📁 Dashboard Files
 
 - [`Data_Jobs_Dashboard.pbix`](Data_Jobs_Dashboard.pbix) – Report 1 (Two Pages)
-- [`Data_Jobs_Dashboard_2.0.pbix`](Data_Jobs_Dashboard_2.0.pbix) – Report 2 (One Page)
+  
 
 ---
 
@@ -144,14 +144,6 @@ Together, they help make the 2024 data job market more understandable and action
 - Advanced DAX calculations
 - Visual storytelling with diverse chart types
 - UX design for both deep and light exploration
-- Drill-through navigation and dynamic filtering
-
----
-
-## 📬 Contact
-
-For inquiries, feedback, or collaboration:  
-[LinkedIn](https://www.linkedin.com/in/suborno-deb-bappon/)
 
 ---
 
